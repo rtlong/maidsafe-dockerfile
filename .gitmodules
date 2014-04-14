@@ -1,0 +1,3 @@
+[submodule "MaidSafe"]
+	path = MaidSafe
+	url = git@github.com:maidsafe/MaidSafe.git
